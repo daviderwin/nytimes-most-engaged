@@ -1,4 +1,4 @@
-# Most Engaged Module
+# Most Engaged 
 A prototype / product description to bring a feed of most commented and recommended articles to the homepage of nytimes.com
 
 ## Why?
