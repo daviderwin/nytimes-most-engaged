@@ -11,7 +11,9 @@ Ok, here's what it may look like:
 
 ![alt tag](module.png)
 
-## Steps forward
+- Clicking through to an article may automatically trigger opening up the comments pane
+
+## Whither?
 - When integrated into recommendations-fe, it will be easy to filter by articles the user has already read
 - If/when we allow people to follow commenters, this can highlight articles that followed users have engaged with
 - This feed can algorythmically be combined with Most Read and Most Emailed (and possible recommendations itself) to provide a hybrid list that may garner more engagement than individual tabs hidden behind each other.
